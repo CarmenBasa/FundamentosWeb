@@ -4,7 +4,7 @@ public class Main {
         String nombre = "Carmen";
         
         //Corregir el valor asignado a la variable nombre
-        nombre="Daniela";
+        nombre = "Daniela";
         
         // Declarar la variable de edad
         int edad = 18;
